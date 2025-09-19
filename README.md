@@ -26,7 +26,7 @@ to analyze key KPIs like Premium, Claim Amount, Coverage, and Policy Types.
 
 
 🎥 Demo Video
-👉 [Watch Video Demo]([https://drive.google.com/...](https://drive.google.com/file/d/1V7twNrwZgXfGYzplBbHoMaMGnAKtmql_/view?usp=drive_link))  
+👉https://drive.google.com/...](https://drive.google.com/file/d/1V7twNrwZgXfGYzplBbHoMaMGnAKtmql_/view?usp=drive_link 
 
 
 🎥 Project Link
